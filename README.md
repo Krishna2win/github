@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Krishna and pursuing B.Tech in Computer Science and Engineering. I taught myself Python and came towards software development only because of the quality resources made available by the open source community. Github has been my favorite place to come every morning. Thanks a lot to Github team ❤️.
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
 # 💻 Tech Stack:
