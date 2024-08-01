@@ -36,13 +36,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.21 % as on ⏰ 0-Aug-2024
 
----
-
-
-
----
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
